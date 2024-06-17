@@ -7,6 +7,6 @@ browser-sync
 
 
 ## Play Online
-<https://hiworu.github.io/ICD-10-code-F44/>
+<https://Hiworu.github.io/ICD-10-code-F44/>
 
 
